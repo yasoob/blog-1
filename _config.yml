@@ -1,0 +1,10 @@
+title: GitBook Blog
+email: contact@gitbook.io
+description: >
+  GitBook feature updates
+baseurl: ""
+url: "https://www.gitbook.io"
+
+# Build settings
+markdown: kramdown
+
