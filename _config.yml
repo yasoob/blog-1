@@ -3,7 +3,7 @@ email: contact@gitbook.io
 description: >
   Awesome feature and team updates about GitBook
 baseurl: ""
-url: "https://www.gitbook.io"
+url: "http://gitbookio.github.io/blog/"
 
 # Build settings
 markdown: kramdown
