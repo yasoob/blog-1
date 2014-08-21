@@ -9,7 +9,7 @@ Readers and visitors can now subscribe to a mailing list to get notifications ab
 
 <!-- more -->
 
-![Mailing screenshot]({{ url }}assets/2014-08-18-book-mailing-lists.png)
+![Mailing screenshot]({{ site.url }}assets/2014-08-18-book-mailing-lists.png)
 
 Authors can access stats about the number of subscribers on their book dashboards. They will also be able to send messages to subscribers from a simple admin interface.
 
