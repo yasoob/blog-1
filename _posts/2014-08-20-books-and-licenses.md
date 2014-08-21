@@ -8,7 +8,7 @@ Authors can now specify the license of their books, by simply placing a standard
 
 <!-- more -->
 
-![](https://31.media.tumblr.com/39b014eb32b6cc81e042cb6c5e9298b6/tumblr_inline_namj5cOAUs1sm1xn2.png)
+![Book license screenshot]({{ url }}assets/2014-08-18-books-and-licenses.png)
 
 We automatically detect the following licenses :
 
