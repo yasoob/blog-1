@@ -8,3 +8,6 @@ url: "https://gitbookio.github.io/blog/"
 # Build settings
 markdown: kramdown
 
+gems:
+  - jemoji
+
