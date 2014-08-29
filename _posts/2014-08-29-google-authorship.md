@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goodbye Google Authorship"
-date:   2014-08-24 22:33:00
+date:   2014-08-29 22:33:00
 categories: infos
 ---
 Google today announced that it has stopped showing the names of authors in its search results.
