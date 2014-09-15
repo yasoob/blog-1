@@ -5,7 +5,7 @@ date:   2014-09-15 00:01:00
 categories: features
 ---
 
-GitHub just makes it easier and much faster to create a GitBook.
+GitHub just makes it easier and much faster to set up a GitBook when creating a repository.
 
 
 <!-- more -->
