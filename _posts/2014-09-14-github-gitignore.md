@@ -3,6 +3,7 @@ layout: post
 title:  "It's now easier to create a book on GitHub"
 date:   2014-09-15 00:01:00
 categories: features
+author: samypesse
 ---
 
 GitHub just makes it easier and much faster to set up a GitBook when creating a repository.

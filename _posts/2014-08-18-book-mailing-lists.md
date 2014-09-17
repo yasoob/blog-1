@@ -3,6 +3,7 @@ layout: post
 title:  "Mailing lists for books"
 date:   2014-08-18 00:01:00
 categories: features
+author: samypesse
 ---
 
 Readers and visitors can now subscribe to a mailing list to get notifications about content updates (and even custom messages from authors).

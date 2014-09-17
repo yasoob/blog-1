@@ -3,6 +3,7 @@ layout: post
 title:  "Books and licenses"
 date:   2014-08-20 17:18:00
 categories: features
+author: aaronomullan
 ---
 Authors can now specify the license of their books, by simply placing a standard `LICENSE` file at the root of their source. Common licenses are automatically parsed and detected.
 

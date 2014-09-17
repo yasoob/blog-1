@@ -3,6 +3,7 @@ layout: post
 title:  "Book prices can now be updated"
 date:   2014-08-11 22:51:00
 categories: features
+author: aaronomullan
 ---
 
 We now allow free/public books to be switched to paid and you can also update the prices of previously paid books.
