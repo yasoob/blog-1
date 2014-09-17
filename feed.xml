@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
+{% assign author = site.data.authors[page.author] %}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -24,6 +25,13 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
+        {% if author %}
+        <author>
+            <name>{{ author.name | xml_escape }}</name>
+            <email>{{ author.email | xml_escape }}</email>
+            <uri>{{ author.web | xml_escape }}</uri>
+        </author>
+        {% endif %}
       </item>
     {% endfor %}
   </channel>
