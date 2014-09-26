@@ -17,6 +17,6 @@ Since last month, Authors [have a full fledged dashboard](https://www.gitbook.io
 
 Starting from now, readers will automatically be added to your book's mailing list. This will allow you as an author to reach out to all the readers who have purchased your book.
 
-Go give **"Notification messages"** a try ! Use it to send out "thank you notes, or promote upcomimg books.
+We're also releasing **"Notification messages"**, that will send an automatic e-mail to your reader as soon as they purchase your book, with a custom message of your choice !
 
-Leverage it as a great source of feedback and a means to be closer to your readers
+Use it to send out "thank you notes, or leverage it as a great source of feedback and a means to be closer to your readers
