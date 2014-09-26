@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notification messages for readers"
-date:   2014-09-27 00:01:00
+date:   2014-09-26 10:00:00
 categories: features
 author: samypesse
 ---
