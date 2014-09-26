@@ -10,7 +10,7 @@ Authors can now create automated messages that will be sent to every new reader 
 
 <!-- more -->
 
-![Mailing screenshot]({{ site.url }}assets/2014-08-18-book-mailing-lists.png)
+![Subscriber messaging screenshot]({{ site.url }}assets/2014-08-18-author-subscriber-mailing.png)
 
 
 Since last month, Authors [have a full fledged dashboard](https://www.gitbook.io/blog/features/author-subscriber-mailing) to send custom messages to their subscribers, those messages can be promote of new books, content updates, etc …
