@@ -5,6 +5,7 @@ date:   2014-08-18 22:33:00
 categories: features
 author: samypesse
 ---
+
 Authors now have a full fledged dashboard to send custom messages to their subscribers, those messages can be promotions of new books, content updates, etc …
 
 <!-- more -->
