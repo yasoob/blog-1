@@ -12,7 +12,7 @@ After the native editor for GitBook, we are now releasing a web editor fully int
 
 ![GitBook WebEditor screenshot]({{ site.url }}assets/2014-11-22-webeditor.png)
 
-We first released a native editor for GitBook (supporting Mac, Windows and Linux), but a tremondus amount of users ask us for a web version of the editor.
+We first released a native editor for GitBook (supporting Mac, Windows and Linux), but a tremondus amount of users ask us for a web version of the editor. Here is it!
 
 ### Edit all your books
 
@@ -25,3 +25,7 @@ This version was been made to simplify your wrtting experience. Built in typeche
 ### Git Integration
 
 With this new editor, we are also relasing a new complete git interface to publish and update your books. Git is fully integrated with the editor, you can manage branches.
+
+### What about the desktop editor?
+
+We will no longer continue to develop the desktop editor, the source code is open source and [available on GitHub](https://github.com/GitbookIO/blog). This desktop editor was built using HTML5/NodeJS technologies with node-webkit. But we are planning on releasing in the coming months a fully native pro version of the editor.
