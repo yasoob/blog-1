@@ -18,6 +18,8 @@ We first released a native editor for GitBook (supporting Mac, Windows and Linux
 
 This editor fully supports the GitBook format. You can edit the summary using drag and drop, edit glossary, but also create and edit multiple translations from the same workspace.
 
+The editor can also edit books hosted on GitHub. To do so, link your GitHub repository to your book and enable the deployment webhook.
+
 ### Typecheck, Distraction free mode, ...
 
 This version was been made to simplify your wrtting experience. Built in typecheck helps spot spelling mistakes before saving and the distraction free mode let you focus on your content.
