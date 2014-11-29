@@ -30,4 +30,8 @@ Versioning is a godsend that developers and advanced writers can not live withou
 
 ### What about the desktop editor?
 
-We will no longer continue to develop the desktop editor, the source code is open source and [available on GitHub](https://github.com/GitbookIO/editor). This desktop editor was built using HTML5/NodeJS technologies with node-webkit. But we are planning on releasing in the coming months a fully native pro version of the editor.
+The current desktop editor, will be replaced in the future by a native "pro" version. In the meantime, we won't be actively updating or supporting it, you can still download it and check out [on GitHub](https://github.com/GitbookIO/editor). We encourage you to take the new web editor, for a spin, please send all feedback and bug reports our way so we can make it the awesome editor you deserve !
+
+### Feedback
+
+As always please feel free to reach out to us if you need help, have great feedback to give, awesome product ideas or you simply want to talk ! You can reach us as **contact@gitbook.com** and reach our support at http://support.gitbook.com.
