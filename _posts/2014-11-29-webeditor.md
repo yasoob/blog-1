@@ -34,4 +34,4 @@ The current desktop editor, will be replaced in the future by a native "pro" ver
 
 ### Feedback
 
-As always please feel free to reach out to us if you need help, have great feedback to give, awesome product ideas or you simply want to talk ! You can reach us as **contact@gitbook.com** and reach our support at http://support.gitbook.com.
+As always please feel free to reach out to us if you need help, have great feedback to give, awesome product ideas or you simply want to talk ! You can reach us as at [support.gitbook.com](http://support.gitbook.com).
